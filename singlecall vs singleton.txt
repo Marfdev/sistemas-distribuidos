@@ -1,0 +1,5 @@
+SingleCall
+se instancia un objeto por cada peticion realizada
+
+SingleTon
+un solo objeto instanciado por servidor una vez este inicia

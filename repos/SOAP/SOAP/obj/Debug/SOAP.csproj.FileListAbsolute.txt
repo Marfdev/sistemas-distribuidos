@@ -1,0 +1,11 @@
+C:\Users\mrond\source\repos\SOAP\SOAP\bin\Debug\SOAP.exe.config
+C:\Users\mrond\source\repos\SOAP\SOAP\bin\Debug\SOAP.exe
+C:\Users\mrond\source\repos\SOAP\SOAP\bin\Debug\SOAP.pdb
+C:\Users\mrond\source\repos\SOAP\SOAP\obj\Debug\SOAP.csproj.AssemblyReference.cache
+C:\Users\mrond\source\repos\SOAP\SOAP\obj\Debug\SOAP.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrond\source\repos\SOAP\SOAP\obj\Debug\SOAP.Form1.resources
+C:\Users\mrond\source\repos\SOAP\SOAP\obj\Debug\SOAP.Properties.Resources.resources
+C:\Users\mrond\source\repos\SOAP\SOAP\obj\Debug\SOAP.csproj.GenerateResource.cache
+C:\Users\mrond\source\repos\SOAP\SOAP\obj\Debug\SOAP.csproj.CoreCompileInputs.cache
+C:\Users\mrond\source\repos\SOAP\SOAP\obj\Debug\SOAP.exe
+C:\Users\mrond\source\repos\SOAP\SOAP\obj\Debug\SOAP.pdb

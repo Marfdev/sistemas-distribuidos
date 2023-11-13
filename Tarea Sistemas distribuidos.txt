@@ -1,0 +1,28 @@
+crear un Sistema distribuido mediante una wcf service app
+
+SERVICIO: GestionAlmacen
+
+
+
+Class Pale{
+codigo: string (unico: utilizar uuid?)
+peso: decimal
+producto: Enumeracion
+fechaCreacion: string/date
+- altaPale() {} returns Pale.codigo : string
+- bajaPale(string Pale.codigo) {} deletes
+- ubicarPale(string Pale.codigo, Ubicacion) {} returns Ubicacion
+- recuperarPale(string Pale.codigo) 
+
+Class Ubicacion
+pasillo
+mano
+columna
+altura
+- getUbicacionPale(string Pale.codigo)
+
+
+composite type:
+data contract
+service contract
+c#
